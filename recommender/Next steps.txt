@@ -1,0 +1,8 @@
+Next steps:
+  Improve the movie recommendations by considering more movie attributes/features
+  In our previous movie recommendations algorithm, we only consider their genres, which is a simple but
+  good start. In addition, you can also consider the movie title, movie overview, languages and other relevant
+  attributes to improve the movie similarity measurements.
+  Add user management to extend the recommender to multi-users
+  Refer to Django website to improve your app by adding user management
+  Deploy the movie recommender on the cloud
